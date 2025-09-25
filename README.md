@@ -80,8 +80,8 @@ python -m src.docx_templater.cli \
 Will produce:
 ```
 output/
-├── NDA_Alice Ltd_2024.docx
-└── NDA_X Company_2025.docx
+├── NDA_Alice_2024.docx
+└── NDA_Company_2025.docx
 ```
 
 ## Known Limitations
